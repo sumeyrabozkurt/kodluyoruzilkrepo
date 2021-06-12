@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
 
-![Proje Resmi](screenshot.PNG)
+![Proje Resmi](https://github.com/sumeyrabozkurt/kodluyoruzilkrepo/blob/main/screeenshot.PNG)
